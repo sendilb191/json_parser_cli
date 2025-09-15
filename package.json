@@ -1,0 +1,22 @@
+{
+  "name": "json_parser_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "myjson": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendilb191/json_parser_cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendilb191/json_parser_cli/issues"
+  },
+  "homepage": "https://github.com/sendilb191/json_parser_cli#readme"
+}
